@@ -1,2 +1,4 @@
 master1 file added
+modified another line
+welcome to git
 
